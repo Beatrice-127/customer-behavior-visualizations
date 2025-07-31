@@ -4,7 +4,9 @@ This project analyzes **real anonymized data** from an online learning platform,
 
 Through a series of structured SQL queries, I transformed raw platform data into analysis-ready tables, covering different stages of the student lifecycle. These were visualized in Tableau Public using a set of interactive dashboards focused on engagement, onboarding, conversion, course performance, and career track progress.
 
+Dashboard from this project are published on Tableau Public:
 
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/libei.wang/viz/learning_platform_customer_behavior/Overview?publish=yes)
 
 ## SQL Usage in This Project
 
