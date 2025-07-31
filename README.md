@@ -80,6 +80,7 @@ Users can filter the chart by:
 - **Cohort Month**: To focus on specific user entry periods
 
 A hover tooltip (lightbulb icon) provides guidance on how to interpret and use the cohort chart effectively.
+![hoover](https://github.com/Beatrice-127/customer-behavior-visualizations/blob/main/screenshots/03_cohort_hoover_tooltip.png)
 
 ### 4. Exams and Certificates Dashboard
 
